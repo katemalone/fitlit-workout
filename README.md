@@ -22,3 +22,5 @@ To check out the tests, run `npm install` (if you have not already) to ensure fu
 
 #### Contributors
 Kate Malone and Sara Karsh
+
+https://ckoga.github.io/fitlit-starter-kit/src/index.html
