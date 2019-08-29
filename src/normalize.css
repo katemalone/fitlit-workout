@@ -104,7 +104,8 @@ h4 {
 .main_weekly-sleep-hours-span,
 .main_weekly-sleep-quality-span,
 .main_alltime-sleep-span,
-.main_allUser-sleep-hours-span {
+.main_allUser-sleep-hours-span,
+.main_alltime-sleep-hours-span {
   font-size: 4em;
   font-weight: 100;
 }
